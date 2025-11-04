@@ -15,3 +15,11 @@
 * height  — Cell Height in global.sy units;
 * width   — Call Width in global.sx units.
 
+# Pin-Related Parameters
+
+* cell    — Cell Type;
+* variant — Cell Variant;
+* pin     — Input Pin Name;
+* power   — AC Power in 10^global.pu μW/MHz;
+* cap     — Pin Capacitance in 10^gloabal.cu pF.
+
