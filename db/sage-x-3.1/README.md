@@ -8,3 +8,10 @@
 * pu    — AC Power Unit Order (value = x * 10^pu μW/MHz);
 * cu    — Pin Capacitance Unit Order (value = x * 10^cu pF).
 
+# Cell Sizes
+
+* cell    — Cell Type;
+* variant — Cell Variant;
+* height  — Cell Height in global.sy units;
+* width   — Call Width in global.sx units.
+
