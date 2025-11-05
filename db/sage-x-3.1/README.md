@@ -23,3 +23,13 @@
 * power   — AC Power in 10^global.pu μW/MHz;
 * cap     — Pin Capacitance in 10^gloabal.cu pF.
 
+# Path-Related Parameters
+
+* cell    — Cell Type;
+* variant — Cell Variant;
+* source  — Signal Source;
+* sink    — Signal Sink;
+* dir     — Signal Change Direction (r — rise, f — fall);
+* delay   — Intrinsic Delay for this path (ps);
+* load    — Load Coefficient (ps/pF).
+
